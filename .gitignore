@@ -1,0 +1,4 @@
+/sprout/build
+/sprout/node_modules
+/sprout/package-lock.json
+.DS_STORE
