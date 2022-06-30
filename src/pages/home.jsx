@@ -17,12 +17,11 @@ export default function Home() {
       <br />
       <b>Changelog</b>
       <br />
-      [6/28/22] Moved the site onto a React framework. This will make it a lot
-      easier for me to create new posts without having to re-create components.
+      [6/29/22] Had to get a school assignment done today but didn't want to take a break from writing (especially this early on!). Hope you enjoy this article on neural networks!
       <br />
-      [6/27/22] The site is born. Added an article on linear regression. I have
-      a logistic regression article as well but it's in Latex right now and I
-      need to format it in HTML.
+      [6/28/22] Moved the site onto a React framework. This will make it a lot easier for me to create new posts without having to re-create components. Also published the logistic regression article! Hoping to add some articles on neural networks soon (maybe NLP too?).
+      <br />
+      [6/27/22] The site is born. Added an article on linear regression. I have a logistic regression article as well but it's in Latex right now and I need to format it in HTML.
     </>
   );
 }

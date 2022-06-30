@@ -11,11 +11,8 @@ import { Router, Link } from "wouter";
 
 export default () => (
   <div className="topnav">
-    <div>
-      <Link className="link" href="/">Home</Link>
-      <Link className="link" href="/posts">Posts</Link>
-      <Link className="link" href="/about">About</Link>
-    </div>
-    <div></div>
+    <Link className="link" href="/">Home</Link>
+    <Link className="link" href="/posts">Posts</Link>
+    <Link className="link" href="/about">About</Link>
   </div>
 );
