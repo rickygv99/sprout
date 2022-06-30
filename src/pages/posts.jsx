@@ -9,6 +9,7 @@ export default function Posts() {
       <ul>
         <li className="post-link"><Link className="link" href="/posts/linear-regression">Linear Regression</Link></li>
         <li className="post-link"><Link className="link" href="/posts/logistic-regression">Logistic Regression</Link></li>
+        <li className="post-link"><Link className="link" href="/posts/neural-networks">Intro to Neural Networks</Link></li>
       </ul>
       <p>It's a little bit empty right now but more content will be added soon!</p>
     </div>
